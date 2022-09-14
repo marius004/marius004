@@ -5,6 +5,5 @@
 ### I'm a Student and Developer.
 
 - 🔭 I'm currently working on a platform like leetcode.
-- 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love heavy metal and rock.
